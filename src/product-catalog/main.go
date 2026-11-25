@@ -313,3 +313,15 @@ func (p *productCatalog) checkProductFailure(ctx context.Context, id string) boo
 	return failureEnabled
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
