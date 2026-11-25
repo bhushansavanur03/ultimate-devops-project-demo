@@ -3,6 +3,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 package main
+// CI/CD pipeline verification test. 
 
 //go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go
 //go:generate go install google.golang.org/grpc/cmd/protoc-gen-go-grpc
